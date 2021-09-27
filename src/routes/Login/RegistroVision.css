@@ -1,0 +1,26 @@
+.registro-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  height: 100vh;
+  justify-content: center;
+}
+
+.registro-input {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  width: 300px;
+}
+
+.registro-input > label {
+  margin-bottom: 10px;
+}
+
+.button-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  height: 80px;
+}

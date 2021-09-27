@@ -1,0 +1,20 @@
+.logged-user-container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.info-box {
+  background-color: #EDF2F6;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  height: 150px;
+  padding: 25px;
+  border-radius: 7px;
+}
+
+.username {
+  font-size: 30px;
+  font-weight: 900;
+}

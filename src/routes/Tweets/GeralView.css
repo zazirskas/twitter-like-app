@@ -1,0 +1,15 @@
+.main-container {
+  display: flex;
+  align-self: center;
+  justify-content: center;
+  justify-items: center;
+  margin-top: 25px;
+
+  gap: 20px;
+}
+
+.tweets-container {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}

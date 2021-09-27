@@ -1,0 +1,11 @@
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  height: 45px;
+  width: 40vw;
+  margin-bottom: 15px;
+
+  background-color: #20A1F1;
+}
